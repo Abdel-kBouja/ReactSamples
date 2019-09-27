@@ -1,0 +1,30 @@
+.CockPit button {
+    background-color: #26a676;
+    border-radius: 34px;
+    color: #fff;
+    padding: 8px 26px;
+    border: none;
+}
+
+.CockPit button:hover {
+    background-color: #fff;
+    color: #26a676;;
+    border: 1px solid #26a676;
+    padding: 7px 25px;
+}
+
+
+.CockPit button.red {
+    background-color: red;
+    border-radius: 34px;
+    color: #fff;
+    padding: 8px 26px;
+    border: none;
+}
+
+.CockPit button.red:hover {
+    background-color: #fff;
+    color: red;
+    border: 1px solid red;
+    padding: 7px 25px;
+}
